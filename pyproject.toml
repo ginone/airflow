@@ -652,7 +652,6 @@ dev = [
   "apache-airflow-providers-odbc",
   "apache-airflow-providers-jenkins",
   "apache-airflow-providers-pagerduty",
-  "apache-airflow-providers-sftp",
   "apache-airflow-providers-snowflake",
   "apache-airflow-providers-pinecone",
   "apache-airflow-providers-postgres",
